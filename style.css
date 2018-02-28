@@ -16,13 +16,56 @@
     	display: none !important;
 }
 
+/* --- app header --- */
+
+#rcs-progress-container .bar {
+	background-color: #2ea8d1;
+}
+
+#friends-button .request-count {
+	background: #ac76ff;
+}
+
+/* --- app right --- */ 
+
+.app-right .friends .header i {
+	background: #ac76ff;
+}
+
 /* --- chat --- */
 
 #chat .welcome {
-    	color: #ac76ff;
     	border: #ac76ff 1px solid;
 }
 
 #chat-input {
     	border-radius: 20px;
+}
+
+/* --- dj button --- */
+
+#dj-button.is-join .left,
+#dj-button.is-quit .left,
+#dj-button.is-leave .left {
+	background: #ac76ff;
+}
+
+#dj-button {
+	box-shadow: 0 0 10px #000;
+}
+
+/* --- vote --- */
+
+#vote,
+.votes-rs {
+	box-shadow: 0 0 10px #000;
+	width: 254px !important;
+}
+
+#woot, #grab, #meh {
+	margin-top: 0 !important;
+}
+
+#meh {
+	margin-right: 0 !important;
 }
