@@ -1,7 +1,7 @@
 {
     "room":   "Džabole",
     "author": "Máro",
-    "css":    "https://cdn.rawgit.com/Maro1310/dzabole/b1b96d4a/style.css",
+    "css":    "https://cdn.rawgit.com/Maro1310/dzabole/d59c7341/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot":    true,
@@ -13,7 +13,7 @@
         "forceSmartVote":   false
     },
     "images": {
-        "playback": "https://i.imgur.com/W0ATPF6.png"
+        "playback": "https://i.imgur.com/dsJvky1.png"
     },
     "emotes": {
     }
