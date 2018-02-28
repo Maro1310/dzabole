@@ -1,0 +1,20 @@
+{
+    "room":   "Džabole",
+    "author": "Máro",
+    "css":    "https://cdn.rawgit.com/Maro1310/metal-rock-punk-cz-sk/cff3ce81/style.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot":    true,
+        "allowAutojoin":    true,
+        "allowAutograb":    true,
+        "allowSmartVote":   true,
+        "allowEmotes":      true,
+        "allowShowingMehs": true,
+        "forceSmartVote":   false
+    },
+    "images": {
+        "playback": "https://i.imgur.com/yi6prKc.png"
+    },
+    "emotes": {
+    }
+}
