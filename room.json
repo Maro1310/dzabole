@@ -1,7 +1,7 @@
 {
     "room":   "Džabole",
     "author": "Máro",
-    "css":    "https://cdn.rawgit.com/Maro1310/dzabole/d59c7341/style.css",
+    "css":    "https://cdn.rawgit.com/Maro1310/dzabole/2021ca72/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot":    true,
